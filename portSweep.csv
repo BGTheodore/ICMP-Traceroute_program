@@ -1,0 +1,3 @@
+Port,IP,Service,Domain,Banner
+80, 127.0.0.1, http, localhost, Banner not found !!
+631, 127.0.0.1, ipp, localhost, Banner not found !!
